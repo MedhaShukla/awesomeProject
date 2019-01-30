@@ -1,0 +1,20 @@
+module.exports = {
+    WHITE_BACKGROUND: '#FFFFFF',
+    PRIMARY : "#2c5ced",
+    SECONDARY : "#1e41a6",
+    TEXT_COLOR : "#00144d",
+    DUMB_COLOR : "#404040",
+    FADE: "#DEDEDE",
+    LIGHT: "#F5F5F5",
+    Light_White:"#F0F0F0",
+    GREY: 'grey',
+    BLACK:'#404040',
+    DUMB_BLUE:'#80DEEA',
+    LIGHT_YELLOW:'#FFE082',
+    LIGHT_ORANGE: '#FFAB91',
+    LIGHT_GREEN: '#C5E1A5',
+    SKY_BLUE:'#81D4FA',
+    LOGIN_TEXT_COLOR:'#C2C2C2',
+    TAB_BACKGROUND_COLOR: '#1A237E'
+
+}
